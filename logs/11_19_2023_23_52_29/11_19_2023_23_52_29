@@ -1,0 +1,8 @@
+[ 2023-11-19 23:52:29,482 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-11-19 23:52:29,484 ] 224 werkzeug - INFO -  * Debugger PIN: 539-619-890
+[ 2023-11-19 23:52:29,505 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 23:52:29] "GET / HTTP/1.1" 200 -
+[ 2023-11-19 23:53:07,896 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 23:53:07] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-11-19 23:53:55,309 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 23:53:55] "GET /predictdata?gender=male&ethnicity=group+A&parental_level_of_education=bachelor's+degree&lunch=free%2Freduced&test_preparation_course=completed&reading_score=12&writing_score=15 HTTP/1.1" 200 -
+[ 2023-11-19 23:56:00,673 ] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\suchi\\onedrive\\desktop\\ml_project\\app.py', reloading
+[ 2023-11-19 23:56:00,674 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\suchi\\OneDrive\\Desktop\\ml_project\\app.py', reloading
+[ 2023-11-19 23:56:00,675 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\suchi\\OneDrive\\Desktop\\ml_project\\app.py', reloading

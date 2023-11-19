@@ -1,0 +1,13 @@
+[ 2023-11-19 23:28:54,681 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-11-19 23:28:54,683 ] 224 werkzeug - INFO -  * Debugger PIN: 539-619-890
+[ 2023-11-19 23:30:09,786 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 23:30:09] "GET / HTTP/1.1" 200 -
+[ 2023-11-19 23:30:09,845 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 23:30:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-11-19 23:31:18,988 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\suchi\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2023-11-19 23:31:18,990 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\suchi\\anaconda3\\Lib\\site-packages\\flask\\templating.py', reloading
+[ 2023-11-19 23:31:18,992 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\suchi\\anaconda3\\Lib\\site-packages\\jinja2\\environment.py', reloading
+[ 2023-11-19 23:31:18,998 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\suchi\\anaconda3\\Lib\\site-packages\\werkzeug\\routing\\map.py', reloading
+[ 2023-11-19 23:31:19,002 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 23:31:19] "[35m[1mGET /predictdata HTTP/1.1[0m" 500 -
+[ 2023-11-19 23:31:19,118 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 23:31:19] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-11-19 23:31:19,119 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 23:31:19] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-11-19 23:31:19,184 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 23:31:19] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-11-19 23:31:19,194 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 23:31:19] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

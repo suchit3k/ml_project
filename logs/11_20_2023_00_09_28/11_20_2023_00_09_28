@@ -1,0 +1,21 @@
+[ 2023-11-20 00:09:29,027 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-11-20 00:09:29,029 ] 224 werkzeug - INFO -  * Debugger PIN: 539-619-890
+[ 2023-11-20 00:09:31,605 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:09:31] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-11-20 00:09:31,702 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:09:31] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-11-20 00:09:31,703 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:09:31] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-11-20 00:09:31,747 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:09:31] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-11-20 00:09:31,771 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:09:31] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-11-20 00:09:38,237 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:09:38] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-11-20 00:09:53,889 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:09:53] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-11-20 00:09:53,932 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:09:53] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-11-20 00:09:53,937 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:09:53] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-11-20 00:09:53,971 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:09:53] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-11-20 00:09:53,983 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:09:53] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-11-20 00:10:14,207 ] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\suchi\\onedrive\\desktop\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-11-20 00:10:14,208 ] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\suchi\\onedrive\\desktop\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-11-20 00:10:14,209 ] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\suchi\\onedrive\\desktop\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-11-20 00:10:14,211 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\suchi\\OneDrive\\Desktop\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-11-20 00:10:14,211 ] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\suchi\\onedrive\\desktop\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-11-20 00:10:14,212 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\suchi\\OneDrive\\Desktop\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-11-20 00:10:14,214 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\suchi\\OneDrive\\Desktop\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-11-20 00:10:14,215 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\suchi\\OneDrive\\Desktop\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading

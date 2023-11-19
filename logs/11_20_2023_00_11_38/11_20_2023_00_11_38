@@ -1,0 +1,9 @@
+[ 2023-11-20 00:11:39,077 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-11-20 00:11:39,079 ] 224 werkzeug - INFO -  * Debugger PIN: 539-619-890
+[ 2023-11-20 00:11:45,796 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:11:45] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-11-20 00:12:13,981 ] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\suchi\\onedrive\\desktop\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-11-20 00:12:13,983 ] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\suchi\\onedrive\\desktop\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-11-20 00:12:13,983 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\suchi\\OneDrive\\Desktop\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-11-20 00:12:13,984 ] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\suchi\\onedrive\\desktop\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-11-20 00:12:13,985 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\suchi\\OneDrive\\Desktop\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-11-20 00:12:13,986 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\suchi\\OneDrive\\Desktop\\ml_project\\src\\pipeline\\predict_pipeline.py', reloading

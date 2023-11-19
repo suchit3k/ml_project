@@ -1,0 +1,8 @@
+[ 2023-11-20 00:01:32,434 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-11-20 00:01:32,436 ] 224 werkzeug - INFO -  * Debugger PIN: 539-619-890
+[ 2023-11-20 00:01:37,013 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:01:37] "GET / HTTP/1.1" 200 -
+[ 2023-11-20 00:01:42,511 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:01:42] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-11-20 00:01:58,989 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:01:58] "GET /predictdata?gender=female&ethnicity=group+D&parental_level_of_education=bachelor's+degree&lunch=standard&test_preparation_course=completed&reading_score=18&writing_score=23 HTTP/1.1" 200 -
+[ 2023-11-20 00:02:08,450 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:02:08] "GET /predictdata?gender=female&ethnicity=group+D&parental_level_of_education=bachelor's+degree&lunch=standard&test_preparation_course=completed&reading_score=18&writing_score=23 HTTP/1.1" 200 -
+[ 2023-11-20 00:02:10,958 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:02:10] "GET /predictdata?gender=female&ethnicity=group+D&parental_level_of_education=bachelor's+degree&lunch=standard&test_preparation_course=completed&reading_score=18&writing_score=23 HTTP/1.1" 200 -
+[ 2023-11-20 00:02:11,638 ] 224 werkzeug - INFO - 127.0.0.1 - - [20/Nov/2023 00:02:11] "GET /predictdata?gender=female&ethnicity=group+D&parental_level_of_education=bachelor's+degree&lunch=standard&test_preparation_course=completed&reading_score=18&writing_score=23 HTTP/1.1" 200 -
